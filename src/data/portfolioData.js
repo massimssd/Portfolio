@@ -20,7 +20,7 @@ export const portfolioData = {
     phoneDisplay: '07 44 11 45 36',
     phoneLink: 'tel:+33744114536',
     emailLink:
-      'mailto:masi.messaoudi@gmail.com?subject=Prise%20de%20contact%20depuis%20le%20portfolio',
+      'https://mail.google.com/mail/?view=cm&fs=1&to=masi.messaoudi@gmail.com&su=Prise%20de%20contact%20depuis%20le%20portfolio',
     githubUrl: 'https://github.com/massimssd',
     linkedinUrl: 'https://www.linkedin.com/in/massinissa-messaoudi-89a295255/',
     profilePhotoUrl: '/profile-photo.jpg',
@@ -291,7 +291,7 @@ export const contactCards = [
     title: 'Email',
     text: 'Je privilégie ce canal pour échanger sur une opportunité, un entretien ou une première prise de contact.',
     value: 'masi.messaoudi@gmail.com',
-    href: 'mailto:masi.messaoudi@gmail.com?subject=Prise%20de%20contact%20depuis%20le%20portfolio',
+    href: 'https://mail.google.com/mail/?view=cm&fs=1&to=masi.messaoudi@gmail.com&su=Prise%20de%20contact%20depuis%20le%20portfolio',
     icon: 'mail',
   },
   {

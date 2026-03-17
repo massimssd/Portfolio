@@ -23,7 +23,12 @@ function ContactSection({ person, contactCards }) {
             </p>
 
             <div className="contact-actions">
-              <a className="button button--primary" href={person.emailLink}>
+              <a
+                className="button button--primary"
+                href={person.emailLink}
+                rel="noreferrer"
+                target="_blank"
+              >
                 Envoyer un mail
               </a>
               <a
