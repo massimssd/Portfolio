@@ -26,8 +26,8 @@ function HeroSection({ person, heroMetrics }) {
             </a>
             <a
               className="button button--ghost"
-              download
-              href="/Massinissa-Messaoudi-CV.pdf"
+              download="CV_MASSINISSA_MESSAOUDI.pdf"
+              href="/CV_MASSINISSA_MESSAOUDI.pdf"
             >
               <Icon name="download" />
               Télécharger mon CV

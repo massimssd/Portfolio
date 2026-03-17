@@ -50,7 +50,7 @@ npm run preview
 ## Personnalisation rapide
 
 - Remplacer le lien LinkedIn de recherche par l’URL directe du profil dans [src/data/portfolioData.js](/c:/Users/proprietaire/mon-portfolio/src/data/portfolioData.js).
-- Remplacer le PDF placeholder dans [public/Massinissa-Messaoudi-CV.pdf](/c:/Users/proprietaire/mon-portfolio/public/Massinissa-Messaoudi-CV.pdf).
+- Le CV téléchargé par le bouton Hero est [public/CV_MASSINISSA_MESSAOUDI.pdf](/c:/Users/proprietaire/mon-portfolio/public/CV_MASSINISSA_MESSAOUDI.pdf).
 - Si souhaité, remplacer l’avatar placeholder dans [src/assets/avatar-placeholder.svg](/c:/Users/proprietaire/mon-portfolio/src/assets/avatar-placeholder.svg).
 
 ## Scripts disponibles
