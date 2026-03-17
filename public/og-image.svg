@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" fill="none" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="72" x2="1126" y1="44" y2="592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1728"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_1_2" x1="128" x2="1024" y1="114" y2="510" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F84FF"/>
+      <stop offset=".56" stop-color="#72E7FF"/>
+      <stop offset="1" stop-color="#8FF2C3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="#07111F"/>
+  <circle cx="1012" cy="116" r="158" fill="#4F84FF" fill-opacity=".16"/>
+  <circle cx="210" cy="84" r="140" fill="#72E7FF" fill-opacity=".08"/>
+  <rect width="1056" height="486" x="72" y="72" fill="url(#paint0_linear_1_2)" rx="34"/>
+  <rect width="1056" height="486" x="72" y="72" stroke="rgba(114,231,255,.18)" rx="34"/>
+
+  <rect width="142" height="52" x="130" y="126" fill="rgba(114,231,255,.08)" stroke="rgba(114,231,255,.18)" rx="18"/>
+  <text x="160" y="160" fill="#DDF6FF" font-family="Arial, sans-serif" font-size="24" font-weight="700">MM</text>
+
+  <text x="130" y="268" fill="#ECF4FF" font-family="Arial, sans-serif" font-size="74" font-weight="700">Massinissa</text>
+  <text x="130" y="350" fill="#ECF4FF" font-family="Arial, sans-serif" font-size="74" font-weight="700">Messaoudi</text>
+  <text x="130" y="414" fill="#72E7FF" font-family="Arial, sans-serif" font-size="34" font-weight="700">Développeur Frontend</text>
+  <text x="130" y="468" fill="#A9BCD5" font-family="Arial, sans-serif" font-size="28">React, React Native, TypeScript, qualité logicielle et expérience produit.</text>
+
+  <rect width="376" height="276" x="716" y="168" fill="rgba(114,231,255,.06)" stroke="rgba(114,231,255,.16)" rx="28"/>
+  <path stroke="url(#paint1_linear_1_2)" stroke-linecap="round" stroke-width="4" d="M766 226h276M766 304h200M766 382h276"/>
+  <rect width="240" height="54" x="766" y="478" fill="rgba(79,132,255,.12)" stroke="rgba(79,132,255,.18)" rx="18"/>
+  <text x="800" y="512" fill="#ECF4FF" font-family="Arial, sans-serif" font-size="22" font-weight="700">Disponible pour CDI</text>
+</svg>

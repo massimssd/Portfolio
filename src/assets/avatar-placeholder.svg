@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="880" fill="none" viewBox="0 0 720 880">
+  <defs>
+    <linearGradient id="avatar-bg" x1="80" x2="620" y1="80" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102241"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </linearGradient>
+    <linearGradient id="avatar-accent" x1="120" x2="612" y1="184" y2="684" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F84FF"/>
+      <stop offset=".55" stop-color="#72E7FF"/>
+      <stop offset="1" stop-color="#8FF2C3"/>
+    </linearGradient>
+    <linearGradient id="avatar-line" x1="161" x2="562" y1="432" y2="432" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72E7FF" stop-opacity=".15"/>
+      <stop offset=".5" stop-color="#72E7FF" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#72E7FF" stop-opacity=".15"/>
+    </linearGradient>
+    <filter id="avatar-blur" width="522" height="522" x="99" y="97" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_1_2" stdDeviation="42"/>
+    </filter>
+  </defs>
+
+  <rect width="720" height="880" rx="46" fill="url(#avatar-bg)"/>
+  <rect width="648" height="808" x="36" y="36" stroke="rgba(114,231,255,.18)" rx="34"/>
+  <path fill="url(#avatar-accent)" fill-opacity=".08" d="M186 122h351c47 0 85 38 85 85v351c0 47-38 85-85 85H186c-47 0-85-38-85-85V207c0-47 38-85 85-85Z"/>
+  <g filter="url(#avatar-blur)">
+    <circle cx="360" cy="358" r="177" fill="#4F84FF" fill-opacity=".22"/>
+  </g>
+
+  <rect width="428" height="546" x="146" y="154" fill="rgba(8,17,31,.65)" stroke="rgba(114,231,255,.16)" rx="38"/>
+  <path stroke="url(#avatar-line)" stroke-width="1.4" d="M161 240h398M161 624h398M161 432h398"/>
+  <path fill="url(#avatar-accent)" fill-opacity=".14" d="M220 252h280c34 0 62 28 62 62v224c0 34-28 62-62 62H220c-34 0-62-28-62-62V314c0-34 28-62 62-62Z"/>
+
+  <circle cx="360" cy="364" r="126" fill="#0C1728" stroke="rgba(114,231,255,.2)" stroke-width="2"/>
+  <path fill="rgba(114,231,255,.08)" d="M360 274c42 0 76 34 76 76s-34 76-76 76-76-34-76-76 34-76 76-76Z"/>
+  <path fill="rgba(79,132,255,.16)" d="M258 538c18-51 65-84 119-84s101 33 119 84v6H258v-6Z"/>
+  <path fill="#EAF4FF" d="M307 333c0-29 24-53 53-53 29 0 53 24 53 53s-24 53-53 53c-29 0-53-24-53-53Z"/>
+  <path fill="#EAF4FF" d="M281 548c18-51 65-84 119-84s101 33 119 84v6H281v-6Z"/>
+
+  <rect width="138" height="48" x="82" y="88" fill="rgba(114,231,255,.08)" stroke="rgba(114,231,255,.14)" rx="18"/>
+  <text x="112" y="118" fill="#DFF7FF" font-family="Arial, sans-serif" font-size="20" font-weight="700">MM</text>
+
+  <rect width="150" height="48" x="487" y="88" fill="rgba(79,132,255,.12)" stroke="rgba(79,132,255,.2)" rx="18"/>
+  <text x="514" y="118" fill="#EAF4FF" font-family="Arial, sans-serif" font-size="18" font-weight="700">Frontend</text>
+
+  <rect width="180" height="64" x="76" y="738" fill="rgba(114,231,255,.08)" stroke="rgba(114,231,255,.16)" rx="22"/>
+  <text x="104" y="770" fill="#9FD6E5" font-family="Arial, sans-serif" font-size="16" font-weight="700">React / RN / TS</text>
+  <text x="104" y="792" fill="#EAF4FF" font-family="Arial, sans-serif" font-size="14">Stack principale</text>
+
+  <rect width="170" height="64" x="276" y="738" fill="rgba(79,132,255,.12)" stroke="rgba(79,132,255,.18)" rx="22"/>
+  <text x="304" y="770" fill="#AFC9FF" font-family="Arial, sans-serif" font-size="16" font-weight="700">Produit &amp; qualité</text>
+  <text x="304" y="792" fill="#EAF4FF" font-family="Arial, sans-serif" font-size="14">Performance, tests</text>
+
+  <rect width="170" height="64" x="466" y="738" fill="rgba(143,242,195,.08)" stroke="rgba(143,242,195,.18)" rx="22"/>
+  <text x="494" y="770" fill="#B9FFD9" font-family="Arial, sans-serif" font-size="16" font-weight="700">CDI</text>
+  <text x="494" y="792" fill="#EAF4FF" font-family="Arial, sans-serif" font-size="14">Recherche active</text>
+</svg>

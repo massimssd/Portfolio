@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#07111F" rx="20"/>
+  <rect width="48" height="48" x="8" y="8" fill="url(#paint0_linear_1_2)" fill-opacity=".12" stroke="rgba(114,231,255,.24)" rx="16"/>
+  <path stroke="url(#paint1_linear_1_2)" stroke-linecap="round" stroke-width="3.6" d="M18 20h28M18 32h18M18 44h28"/>
+  <text x="16" y="38" fill="#ECF4FF" font-family="Arial, sans-serif" font-size="18" font-weight="700">MM</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="14" x2="53" y1="12" y2="55" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F84FF"/>
+      <stop offset=".58" stop-color="#72E7FF"/>
+      <stop offset="1" stop-color="#8FF2C3"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_1_2" x1="18" x2="46" y1="20" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F84FF"/>
+      <stop offset=".5" stop-color="#72E7FF"/>
+      <stop offset="1" stop-color="#8FF2C3"/>
+    </linearGradient>
+  </defs>
+</svg>
